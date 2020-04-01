@@ -1,2 +1,2 @@
 # nodeAPI
-node JS simple get post operation
+node JS simple get post operation using MongDB Atlas
